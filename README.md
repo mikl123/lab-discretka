@@ -34,4 +34,4 @@ Key moment:
 4) If study after hour>=20 then get annoyed and change state on "Writing essay"
 5) if hour=23 then set state on "Slepping".
 6) If hour = 24 then end day generation.
-Conclusion: This FSM will generate unique day, but it is going to follow same patterns.
+# Conclusion: This FSM will generate unique day, but it is going to follow same patterns.
