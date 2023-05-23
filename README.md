@@ -8,7 +8,7 @@ I have create FSM for my day generation in FSM.py.
 `tree=FSM()
 tree.send()`
 2) Run the code
-
+ 
 This will run cycle that will generate day timetable for 24 hours.
 All states:
 1) Slepping
