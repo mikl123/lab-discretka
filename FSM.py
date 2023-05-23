@@ -246,5 +246,3 @@ class FSM:
                 self.current_state=self.shopping_s
 
             print(str(hour)+": Writing essay...")
-tree=FSM()
-tree.send()
