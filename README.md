@@ -26,8 +26,10 @@ All states:
 11) Writting essay
 Firstly the program will run base state "Sleeping"
 ![Диаграмма без названия drawio (1)](https://github.com/mikl123/lab-discretka/assets/69431189/3ff67c81-3e5c-42da-9470-7a00d5694229)
+Структура:
+1) There is five main states: "Sleeping", "Eating", "Studying", "Writing essay","Resting".
+2) There is 6 random actions: "Washing", "Shopping", "Talking parents", "Walking", "Talking", "Watching film".
 Key moment:
-
 1) Always starts from "Slepping" state and change state if and only if hour=7.
 2) Also different current states randomly can make state change on other.
 3) After every hour, hungry+=19, so when in is more than 80, state is changed on eating where hungry is setted on 0.
