@@ -25,7 +25,8 @@ All states:
 10) Talking parents
 11) Writting essay
 Firstly the program will run base state "Sleeping"
-![Диаграмма без названия drawio (1)](https://github.com/mikl123/lab-discretka/assets/69431189/3ff67c81-3e5c-42da-9470-7a00d5694229)
+![Диаграмма без названия drawio (2)](https://github.com/mikl123/lab-discretka/assets/69431189/b24b72d3-996a-4bdd-8434-14c8bc2ea664)
+
 <!-- buf -->
 ## Структура:
 1) There is five main states: "Sleeping", "Eating", "Studying", "Writing essay","Resting".
