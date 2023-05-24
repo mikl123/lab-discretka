@@ -31,7 +31,7 @@ Firstly the program will run base state "Sleeping"
 1) There is five main states: "Sleeping", "Eating", "Studying", "Writing essay","Resting".
 2) There is 6 random actions: "Washing", "Shopping", "Talking parents", "Walking", "Talking", "Watching film".
 <!-- buf -->
-Key moment:
+## Key moment:
 1) Always starts from "Slepping" state and change state if and only if hour=7.
 2) Also different current states randomly can make state change on other.
 3) After every hour, hungry+=19, so when in is more than 80, state is changed on eating where hungry is setted on 0.
